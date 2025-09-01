@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/NoteBooks/static/js/main.ef0e0d30.js",
+    "static/media/me.jpg": "/NoteBooks/static/media/me.cc846e0cd714da76239d.jpg",
+    "index.html": "/NoteBooks/index.html",
+    "main.ef0e0d30.js.map": "/NoteBooks/static/js/main.ef0e0d30.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef0e0d30.js"
+  ]
+}
